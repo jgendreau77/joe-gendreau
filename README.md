@@ -8,7 +8,11 @@ The start of my Resume
 	- removed awards link
 	
 Resume Step-01
-	-replaced profile image with myself
-	-added current and previous work experience
-	-changed css color from orange to blue
-	
+	- replaced profile image with myself
+	- added current and previous work experience
+	- changed css color from orange to blue
+
+Resume Step-02
+	- replaced twitter icon with instagram icon
+	- added education information
+	- added github icon to programming language 
