@@ -16,3 +16,7 @@ Resume Step-02
 	- replaced twitter icon with instagram icon
 	- added education information
 	- added github icon to programming language 
+	
+Resume Step-03
+	- added another work experience
+	- added my social links in index.html so it takes user to site when clicked on
