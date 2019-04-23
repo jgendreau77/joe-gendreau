@@ -20,3 +20,5 @@ Resume Step-02
 Resume Step-03
 	- added another work experience
 	- added my social links in index.html so it takes user to site when clicked on
+	- removed ig link and aligned my address, cell, and email under my name
+	- removed workflow and interests and added Adobe icon to skills
