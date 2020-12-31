@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="_animated.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322402934164" remote="131986492200000000" Dst="2" />
-<file name="_bordered-pulled.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322403020254" remote="131986492200000000" Dst="2" />
-<file name="_core.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322403100348" remote="131986492200000000" Dst="2" />
-<file name="_fixed-width.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322403185272" remote="131986492200000000" Dst="2" />
-<file name="_icons.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322403267380" remote="131986492200000000" Dst="2" />
-<file name="_larger.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322403342069" remote="131986492200000000" Dst="2" />
-<file name="_list.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322403424114" remote="131986492200000000" Dst="2" />
-<file name="_mixins.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322403498206" remote="131986492200000000" Dst="2" />
-<file name="_rotated-flipped.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322403569835" remote="131986492200000000" Dst="2" />
-<file name="_screen-reader.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322403652324" remote="131986492200000000" Dst="2" />
-<file name="_shims.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322403737578" remote="131986492200000000" Dst="2" />
-<file name="_stacked.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322403806988" remote="131986492200000000" Dst="2" />
-<file name="_variables.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322403890541" remote="131986492200000000" Dst="2" />
-<file name="brands.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322403962243" remote="131986492200000000" Dst="2" />
-<file name="fontawesome.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322404048476" remote="131986492200000000" Dst="2" />
-<file name="regular.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322404121441" remote="131986492200000000" Dst="2" />
-<file name="solid.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322404196324" remote="131986492200000000" Dst="2" />
-<file name="v4-shims.scss" server="joe-gendreau.mysitedevelopment.com" local="131986322404265086" remote="131986492200000000" Dst="2" />
+<file name="_animated.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="_bordered-pulled.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="_core.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="_fixed-width.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="_icons.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="_larger.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="_list.scss" server="joe-gendreau.mysitedevelopment.com" local="132314818160311210" remote="131985648000000000" Dst="2" />
+<file name="_mixins.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="_rotated-flipped.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="_screen-reader.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="_shims.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="_stacked.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="_variables.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="brands.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="fontawesome.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="regular.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="solid.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
+<file name="v4-shims.scss" server="joe-gendreau.mysitedevelopment.com" local="131985648000000000" remote="131985648000000000" Dst="2" />
 </dwsync>
