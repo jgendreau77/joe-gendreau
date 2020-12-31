@@ -29,3 +29,5 @@ Resume step-04
 - deleted image and added a new image
 - added end date for graduation
 
+Resume step-05
+- replaced image with new image
